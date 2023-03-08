@@ -27,7 +27,7 @@ public class emptylabell {
         // Set the size and visibility of the JFrame instance
         frame.setSize(300, 200);
         frame.setVisible(true);
-        
+        //comment
         // Set the close operation of the JFrame instance
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
